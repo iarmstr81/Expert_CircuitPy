@@ -35,3 +35,4 @@ In this assignment I made a GUI(graphical user interface) to capture the x and y
         decoded = myData.decode("utf-8")
         #print(decoded))
 ##Picture
+This is a picture of the wiring
