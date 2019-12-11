@@ -2,9 +2,11 @@
 This repo contains all of my expert circuitpy assignments
 
 # Table of Contents
-*[Bouncing Circle](#Bouncing-Circle)
-*[Potentiometer speedometer](#Poteniometer-Speedometer)
-*[Servo Swervo](#Servo-Swervo)
+* [Bouncing Circle](#Bouncing-Circle)
+
+* [Potentiometer speedometer](#Poteniometer-Speedometer)
+
+* [Servo Swervo](#Servo-Swervo)
 
 # Bouncing Circle
 
