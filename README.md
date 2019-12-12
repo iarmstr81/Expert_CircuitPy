@@ -18,8 +18,11 @@ In this assignment we were introduced to processing and made a square with a cir
 
 ## Lesson(s) Learned
 * Processing more specifically how to draw in processing
+
 ##Picture
 This is a picture of what it looks like.
+
+<img src="Media/BouncingCircle.PNG" width="500">
 
 # Potentiometer Speedometer
 
