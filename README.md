@@ -35,6 +35,7 @@ In this assignment we were to make a potentiometers value change the position of
 
 ## Picture
 This is a picture of the wiring
+
 <img src="Media/CircuitPyToProcessing.PNG" width="500">
 
 # Servo Swervo
@@ -56,5 +57,6 @@ servos.
 ## Picture
 
 This is a picture of the wiring
+
 <img src="Media/ProcessingToCircuitPy.PNG" width="500">
 
