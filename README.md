@@ -22,7 +22,7 @@ In this assignment we were introduced to processing and made a square with a cir
 ##Picture
 This is a picture of what it looks like.
 
-<img src="Media/BouncingCircle.PNG" width="500">
+<img src="Media/BouncingCircle.PNG" width="300">
 
 # Potentiometer Speedometer
 
