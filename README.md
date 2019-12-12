@@ -13,7 +13,7 @@ In this assignment we were introduced to processing and made a square with a cir
 ##Lesson(s) Learned
 * Processing more specifically how to draw in processing
 ##Picture
-This is a picture of the wiring
+This is a picture of what it looks like.
 
 #Potentiometer Speedometer
 Assignment actually named CircuitPython to Processing.
@@ -23,6 +23,7 @@ In this assignment we were to make a potentiometers value change the position of
 * What a UART(Universal Asynchronous Receiver/Transmitter) does: it converts USB signals to UART and back 
 ##Picture
 This is a picture of the wiring
+<img src="Media/CircuitPyToProcessing.png" width="300">
 
 #Servo Swervo
 Assignment actually called Processing to CircuitPython
@@ -36,3 +37,4 @@ In this assignment I made a GUI(graphical user interface) to capture the x and y
         #print(decoded))
 ##Picture
 This is a picture of the wiring
+<img src="Media/ProcessingToCircuitPy.png" width="300">
