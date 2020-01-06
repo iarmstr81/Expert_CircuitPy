@@ -12,7 +12,7 @@ This repo contains all of my expert circuitpy assignments
 
 Assignment actuallly named Hello Processing.
 
-### Discription
+### Description
 
 In this assignment we were introduced to processing and made a square with a circle bouncing around inside. 
 
@@ -28,7 +28,7 @@ This is a picture of what it looks like.
 
 Assignment actually named CircuitPython to Processing.
 
-### Discription
+### Description
 
 In this assignment we were to make a potentiometers value change the position of a line in processing to look like a speedometer. 
 
@@ -45,7 +45,7 @@ This is a picture of the wiring
 
 Assignment actually called Processing to CircuitPython
 
-### Discription 
+### Description 
 
 In this assignment I made a GUI(graphical user interface) to capture the x and y position of my mouse to change the position of my 
 servos. 
