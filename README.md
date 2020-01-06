@@ -59,6 +59,7 @@ servos.
 
 ### Picture
 
+
 This is a picture of the wiring
 
 <img src="Media/ProcessingToCircuitPy.PNG" width="500">
